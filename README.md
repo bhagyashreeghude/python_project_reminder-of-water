@@ -5,13 +5,10 @@ The Water Reminder is a Python script that uses the `plyer` library to send remi
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
-- [Setup](#setup)
 - [Usage](#usage)
 - [Customization](#customization)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
